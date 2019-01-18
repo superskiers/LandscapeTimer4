@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Landscape Timer</string>
+
+    <string name="minutes">minutes</string>
+    <string name="timer_text_view_value">00:00</string>
+    <string name="button_start">Start</string>
+    <string name="button_cancel">cancel</string>
+    <string name="text_view_counter">0:00:00</string>
+    <string name="title_activity_progress_bar">ProgressBarActivity</string>
+    <string name="channel_name">CHANNEL_1</string>
+    <string name="channel_description">Timer complete</string>
+    <string name="dismiss_action">dismiss</string>
+    <string name="time_is_up">Time\'s Up!</string>
+    <string name="notification_description">Notification starts when timer ends</string>
+    <string name="pause">Pause</string>
+    <string name="start">Start</string>
+
+</resources>
